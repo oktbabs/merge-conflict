@@ -7,8 +7,7 @@ print "Hello World"
 }
 Added security patch to master
 
-<<<<<<< HEAD
-Added Feature1
+Added Feature2
 
 Added security Feature 2
 =======
@@ -19,8 +18,6 @@ Added security patch to Feature 1
 Added security patch to master
 
 =======
->>>>>>> parent of 518bd5e... Added feature 2
-Initial Security()
 {
  //Sample Code
 }
