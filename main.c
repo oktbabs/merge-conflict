@@ -8,6 +8,8 @@ print "Hello World"
 Feature 1
 
 Added security patch to Feature 1
+=======
+Added security patch to master
 
 Initial Security()
 {
